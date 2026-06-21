@@ -83,7 +83,7 @@ interface SpeechRecognition extends EventTarget {
 
 // --- Firebase Configuration ---
 const firebaseConfig = {
-  apiKey: "AIzaSyDhEctlSQyUlBGOACn5j2dT89oH32TM3NM",
+  apiKey: "your_key_here",
   authDomain: "veritas-web-8cffd.firebaseapp.com",
   projectId: "veritas-web-8cffd",
   storageBucket: "veritas-web-8cffd.firebasestorage.app",
