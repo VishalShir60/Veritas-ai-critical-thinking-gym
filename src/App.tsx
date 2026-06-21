@@ -52,7 +52,7 @@ const SafeAnimatePresence = AnimatePresence as any;
 // ============================================================================
 // ⚠️ GEMINI API CONFIGURATION ⚠️
 // ============================================================================
-const GEMINI_API_KEY = "AIzaSyDSPgwvuCAz-0Sy0vaKiN4RTTUgfUOR7eQ"; 
+const GEMINI_API_KEY = ""your_key_here""; 
 
 
 // --- TypeScript Declarations for Global Variables & Speech Recognition ---
