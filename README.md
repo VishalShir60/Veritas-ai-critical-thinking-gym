@@ -2,6 +2,9 @@
 
 Veritas is an AI-powered platform designed to enhance **critical thinking, logical reasoning, and debate skills** through interactive AI-guided learning experiences.
 
+![image alt](https://github.com/VishalShir60/Veritas-ai-critical-thinking-gym/blob/eee7b79bae75eb27843a086b73a30ef548fa1b46/sys%20arc.png)
+
+
 ## ✨ Features
 
 * 🎯 AI-Powered Critical Thinking Gym
